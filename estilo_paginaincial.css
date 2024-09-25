@@ -1,0 +1,76 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    text-align: right;
+
+  }
+  
+  li {
+    float: right;
+    margin-right: 50px;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 30px 16px;
+    text-decoration: none;
+ 
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: green;
+  }
+  
+  img{
+
+    position: relative;
+  }
+
+  .carrosel_text
+  {
+    position: absolute;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .carrosel{
+
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 200px;
+    
+  }
+
+  .superior {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 30px;
+  }
+  
+
+  .margem{
+ 
+    background-color: rgb(255, 0, 0);
+ 
+    padding: 200px;
+    text-decoration: none;
+    display: block;
+    position: relative;
+    margin-top: -300px;
+    margin-bottom: -10px;
+  }
